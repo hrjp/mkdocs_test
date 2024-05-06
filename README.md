@@ -4,7 +4,7 @@
 
 ## setup
 ```bash
-pip install mkdocs　mkdocs-material
+pip install mkdocs-material
 ```
 
 ## build
